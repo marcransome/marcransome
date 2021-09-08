@@ -1,5 +1,4 @@
-### Hi there 👋
-
+#### 🔐 gpg: [72A74DBB](https://keys.openpgp.org/search?q=marc.ransome%40fidgetbox.co.uk)&nbsp;&nbsp;&nbsp;&nbsp; 📡 keybase: [marcransome](https://keybase.io/marcransome)
 <!--
 **marcransome/marcransome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
