@@ -1,4 +1,4 @@
-#### 🔐 [gpg](https://www.fidgetbox.co.uk/marc-ransome.pub)&nbsp;&nbsp;&nbsp;📡 [keybase](https://keybase.io/marcransome)&nbsp;&nbsp;&nbsp;🌍 [web](https://fidgetbox.co.uk)&nbsp;&nbsp;&nbsp;📧 [mail](mailto:marc.ransome@fidgetbox.co.uk?subject=GitHub)
+#### 🔐 [gpg](https://www.fidgetbox.co.uk/files/marc-ransome.pub)&nbsp;&nbsp;&nbsp;📡 [keybase](https://keybase.io/marcransome)&nbsp;&nbsp;&nbsp;🌍 [web](https://fidgetbox.co.uk)&nbsp;&nbsp;&nbsp;📧 [mail](mailto:marc.ransome@fidgetbox.co.uk?subject=GitHub)
 <!--
 **marcransome/marcransome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
