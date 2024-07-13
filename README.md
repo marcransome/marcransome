@@ -1,4 +1,9 @@
 #### 🔑 [gpg](https://www.fidgetbox.co.uk/files/marc-ransome.gpg.key)&nbsp;&nbsp;&nbsp;🔑 [age](https://www.fidgetbox.co.uk/files/marc-ransome.age.key)&nbsp;&nbsp;&nbsp;💬 [keybase](https://keybase.io/marcransome)&nbsp;&nbsp;&nbsp;🌍 [web](https://fidgetbox.co.uk)&nbsp;&nbsp;&nbsp;📧 [email](mailto:marc.ransome@fidgetbox.co.uk?subject=GitHub)
+
+<hr>
+
+"My imagination requires a judicious rein; I am afraid to let it loose, for it carries me sometimes into appalling places beyond the stars and beneath the world." — _Algernon Blackwood_.
+
 <!--
 **marcransome/marcransome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
